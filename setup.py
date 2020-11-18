@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="imagecolorizer", # Replace with your own username
-    version="0.1.3",
+    version="0.1.5",
     author="Guilherme Silveira",
     author_email="guilherme.silveira@alura.com.br",
     description="Uses InstColorization to colorize images.",
