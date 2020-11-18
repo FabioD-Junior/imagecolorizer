@@ -4,6 +4,18 @@ Uses InstColorization to colorize images.
 
 https://github.com/ericsujw/InstColorization
 
+## Usage
+
+```
+from imagecolorizer.imagecolorizer import *
+ImageColorizer().colorize("examples/image.jpg")
+```
+
+## Variations wanted
+
+- From image in memory
+- To image in memory
+
 ## License
 This work is licensed under MIT License. See [LICENSE](LICENSE) for details. 
 
